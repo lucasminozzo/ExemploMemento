@@ -1,3 +1,5 @@
+Atividade proposta:
+
 Objetivo: Implementar um sistema de "checkpoint" para um jogo simples usando o padrão Memento.
 
 Cenário: Você está criando um jogo de aventura. O seu Jogador tem atributos como vida, mana e posicao (x, y). O jogador precisa ser capaz de salvar seu progresso em "checkpoints" e, se ele "morrer" (perder toda a vida), ele deve ser capaz de carregar o último checkpoint salvo.
